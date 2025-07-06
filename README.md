@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.gifer.com/33HI.gif" width="100%" height="auto"/></p> 
+<p align="center"><img src="https://i.gifer.com/6LH.gif" width="100%" height="auto"/></p>
 
 # 👋 Hey there, I'm Elham Nusrat!  
 
