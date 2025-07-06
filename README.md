@@ -2,7 +2,7 @@
   <img src="https://github.com/ElhamNusratSnigdha/ElhamNusratSnigdha/blob/main/6LH.gif" width="100%" height="auto"/>
 </p>
 
-# 👋 Hey there, this is Elham Nusrat!  
+# 👋 Hey there, this is Elham!  
 
 # 💻 **Aspiring Software Engineer & Tech Enthusiast**  
 
