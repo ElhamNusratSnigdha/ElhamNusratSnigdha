@@ -13,7 +13,7 @@
 
 🎯 **Specialized in**:  
 💻 **Java**, **Python**, **Android Studio**, **Flutter**, **React**, **Web Development**, **Blockchain**, and **Cyber Security**  
-🚀 **Machine Learning & AI**, **Blockchain Development**  
+🚀 **Machine Learning & AI**, **Mobile App Development**  
 
 ## 🧠 Knowledge & Skills  
 
