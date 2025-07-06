@@ -2,20 +2,18 @@
   <img src="https://github.com/ElhamNusratSnigdha/ElhamNusratSnigdha/blob/main/6LH.gif" width="100%" height="auto"/>
 </p>
 
-# 👋 Hey there, I'm Elham Nusrat!  
+# 👋 Hey there, this is Elham Nusrat!  
 
 # 💻 **Aspiring Software Engineer & Tech Enthusiast**  
 
-🔴 **Freelance IT Head | Tech Trainer**  
-💻 **Web Developer | Python Developer | Blockchain Enthusiast**  
+🔴 **Freelance IT Head | Tech Trainer**
 
 🌱 **Certifications & Learning**:  
-🏆 Completed Data Analytics Bootcamp | Machine Learning & AI (Udemy)  
-🎓 Blockchain Development | Women in Digital | Advanced Employability Skilling (Wadhwani Foundation)  
+🏆 Completed Data Analytics Bootcamp | Machine Learning & AI | Blockchain Development | Web Development  
 
 🎯 **Specialized in**:  
-💻 **Web Development**, **Python**, **Blockchain**, and **Cyber Security**  
-🚀 **Machine Learning & AI**, **Mobile App Development**  
+💻 **Java**, **Python**, **Android Studio**, **Flutter**, **React**, **Web Development**, **Blockchain**, and **Cyber Security**  
+🚀 **Machine Learning & AI**, **Blockchain Development**  
 
 ## 🧠 Knowledge & Skills  
 
@@ -50,6 +48,6 @@
 ---
 
 🔗 **Connect with me:**  
-[🌐 LinkedIn](https://www.linkedin.com/in/elham-nusrat/) | [🐦 Twitter](#) | [🔒 Website](https://www.elhamnusrat.com)  
+[🌐 LinkedIn](https://www.linkedin.com/in/elham-nusrat/) | [🔒 Website](https://www.elhamnusrat.com)  
 
 🛠️ *"I am just getting started. Let’s innovate together!"*
