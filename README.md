@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.gifer.com/6LH.gif" width="100%" height="auto"/></p>
+<p align="center"><img src="[https://i.gifer.com/6LH.gif](https://github.com/ElhamNusratSnigdha/ElhamNusratSnigdha/blob/main/6LH.gif?raw=true)" width="100%" height="auto"/></p>
 
 # 👋 Hey there, I'm Elham Nusrat!  
 
