@@ -44,10 +44,3 @@
 | | | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000) |
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElhamNusratSnigdha&show_icons=true&theme=dark)
-
----
-
-🔗 **Connect with me:**  
-[🌐 LinkedIn](https://www.linkedin.com/in/elham-nusrat/) | [🔒 Website](https://www.elhamnusrat.com)  
-
-🛠️ *"I am just getting started. Let’s innovate together!"*
